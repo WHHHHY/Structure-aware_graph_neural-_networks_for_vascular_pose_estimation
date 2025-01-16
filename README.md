@@ -1,0 +1,3 @@
+# Structure-aware-GNNs-for-vascular-registration-in-AR-assisted-neurosurgery
+The dataset is being processed...
+The processed dataset will be placed in the project together with the anatomical model, and the anatomical model can be used to create a custom dataset.
